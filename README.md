@@ -1,22 +1,3 @@
-
-<p align="center">
-  <a href="https://www.microverse.org/">
-    <img alt="Microverse" src="https://img.shields.io/badge/-Microverse-blueviolet?style=flat-square">
-  </a>
-  <a href="https://github.com/Hamzaoutdoors/to-do-list/blob/development/LICENSE">
-    <img alt="MIT Licensed" src="https://img.shields.io/github/license/Hamzaoutdoors/to-do-list?style=flat-square">
-  </a>
-  <a href="https://github.com/Hamzaoutdoors/math-magicians">
-    <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Hamzaoutdoors/math-magicians/dev?color=blue&style=flat-square">
-  </a>
-  <a href="https://github.com/Hamzaoutdoors/math-magicians">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Hamzaoutdoors/math-magicians?color=green&label=%E2%98%85%20stars%20&style=flat-square">
-  </a>
-  <a href="https://github.com/Hamzaoutdoors">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hamzaoutdoors?color=yellow&logo=github&style=flat-square">
-  </a>
-</p>
-  
 # Ma Boutique
 
 - "Ma Boutique" is a website for ECommerce Like Amazon to practice learning React, Redux and add some backend: 

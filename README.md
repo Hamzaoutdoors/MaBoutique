@@ -5,7 +5,9 @@
   - Read and sahre a random math-related quote.
   - Create to-do list for the day
 </br>
-
+<p align="center">
+    <img alt="logo" src="https://user-images.githubusercontent.com/80895497/136694760-92a38267-d889-46c6-a308-5e4ed5d61aec.gif" width= "100%">
+</p>
 Additional description about the project and its features.
 
 ## Built With
